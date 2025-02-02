@@ -56,7 +56,14 @@ between common connections for both |N (vi) ∩ N (vj )| and |N (vj ) ∩ N (vk)
 <img width="1048" alt="Screenshot 2025-01-26 at 11 23 56 AM" src="https://github.com/user-attachments/assets/aeae481a-18cd-42cb-b748-6957a9710fe6" />
 
 ## 4. Citation
-
+```
+@article{firooz2024lost,
+  title={Lost-in-Distance: Impact of Contextual Proximity on LLM Performance in Graph Tasks},
+  author={Firooz, Hamed and Sanjabi, Maziar and Jiang, Wenlong and Zhai, Xiaoling},
+  journal={arXiv preprint arXiv:2410.01985},
+  year={2024}
+}
+```
 
 ## 7. Contact
 If you have any questions, please raise an issue or contact us at mhfirooz@gmail.com, wenlongwj@gmail.com.
